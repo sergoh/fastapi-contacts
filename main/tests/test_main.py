@@ -64,4 +64,3 @@ def test_get_contacts_unexpected_error(monkeypatch):
     response = client.get("/contacts")
     assert response.status_code == 500
     assert response.json()["detail"] == "Internal server error."
-
