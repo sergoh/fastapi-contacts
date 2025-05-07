@@ -14,7 +14,7 @@ def test_get_contacts_success(monkeypatch):
             }
         ]
     }
-
+    # Mock repository
     class MockRepo:
         def load_contacts(self):
             from main.models import ContactsList
