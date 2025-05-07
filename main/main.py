@@ -20,7 +20,7 @@ def get_contacts():
     except Exception as e:
         raise HTTPException(status_code=500, detail="Internal server error.")
 
-# update a contact attribute
+# partial update a contact attribute
 @app.put("/update_contacts/{contact_id}")
 def update_contact(contact_id: int, data):
     contacts = contacts_repo.load_contacts().contacts
