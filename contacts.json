@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "first_name": "Alice",
+      "last_name": "Smith",
+      "zip_code": "12345",
+      "phone_number": "555-0101",
+      "last_contacted": "2024-04-10T14:33:20Z"
+    },
+    {
+      "first_name": "Bob",
+      "last_name": "Smith",
+      "zip_code": "54321",
+      "phone_number": "555-0102",
+      "last_contacted": "2024-04-12T09:15:00Z"
+    },
+    {
+      "first_name": "Charlie",
+      "last_name": "Brown",
+      "zip_code": "67890",
+      "phone_number": "555-0103",
+      "last_contacted": "2024-04-09T22:45:10Z"
+    },
+    {
+      "first_name": "Diana",
+      "last_name": "Prince",
+      "zip_code": "11223",
+      "phone_number": "555-0104",
+      "last_contacted": "2024-04-15T11:20:00Z"
+    },
+    {
+      "first_name": "Ethan",
+      "last_name": "Hunt",
+      "zip_code": "33445",
+      "phone_number": "555-0105",
+      "last_contacted": "2024-04-13T16:05:30Z"
+    },
+    {
+      "first_name": "Fiona",
+      "last_name": "Gallagher",
+      "zip_code": "55667",
+      "phone_number": "555-0106",
+      "last_contacted": "2024-04-11T08:50:00Z"
+    }
+  ]
+}
